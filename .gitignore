@@ -1,0 +1,30 @@
+# Fichiers de l'environnement de développement
+.idea
+
+# Fichiers de configuration
+*.properties
+
+# Fichiers générés
+*.class
+*.jar
+
+# Fichiers de code source css
+
+/WebContent/css/*.css
+
+# Fichiers de code source java
+
+/src/ma/gov/bkam/ags/model/*.java
+/src/ma/gov/bkam/ags/bll/*.java
+/src/ma/gov/bkam/ags/pl/*.java
+/src/ma/gov/bkam/ags/pl/decorator/*.java
+
+# Fichiers de code source mapping xml
+*.xml
+
+# Fichiers de code source jsp
+*.jsp
+
+# Ignore les fichiers temporaires
+*.log
+*.swp
