@@ -1,5 +1,4 @@
-/* [ ---- Maksi soufiane - buttons  ---- ] 
-   [ ---- maksi.webmaster@gmail.com ---- ]
+/* [ ---- Morcy Bennani - buttons  ---- ] 
 */
 
 	$(document).ready(function() {
