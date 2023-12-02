@@ -1,5 +1,4 @@
-/* [ ---- Maksi soufiane - charts ---- ] 
-   [ ---- maksi.webmaster@gmail.com ---- ]
+/* [ ---- Morcy Bennani - charts ---- ] 
 */
 
 	$(document).ready(function() {
